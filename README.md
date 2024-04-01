@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navintechwork&label=Profile%20views&color=0e75b6&style=flat" alt="navintechwork" /> </p>
 
-<p align="left"> <a href="https://twitter.com/navin4590" target="blank"><img src="https://img.shields.io/twitter/follow/jiyauppal?logo=twitter&style=for-the-badge" alt="navintechwork" /></a> </p>
+<p align="left"> <a href="https://twitter.com/navin4590" target="blank"><img src="https://img.shields.io/twitter/follow/navin4590?logo=twitter&style=for-the-badge" alt="navintechwork" /></a> </p>
 
 - 🔭 I’m currently working on **Data structures and my Problem Solving skills.**
 
