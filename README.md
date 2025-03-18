@@ -102,4 +102,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en" alt="Navin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navintechwork&" alt="Navin Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/?user=navintechwork&" alt="Navin Kumar" /></p>
