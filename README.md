@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/navin4590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jiyauppal" height="30" width="40" /></a>
+<a href="https://twitter.com/navin4590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Navin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/navintechwork/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiya-uppal-2209841a9" height="30" width="40" /></a>
 <a href="https://instagram.com/insta_navinkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiaa_uppal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jiyauppal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Navin" height="30" width="40" /></a>
 </p>
 
 ## My Skill Set  
@@ -98,8 +98,8 @@
 
 </td></tr></table>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navintechwork&show_icons=true&locale=en&layout=compact" alt="jiyauppal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navintechwork&show_icons=true&locale=en&layout=compact" alt="Navin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en" alt="jiyauppal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en" alt="Navin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navintechwork&" alt="jiyauppal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navintechwork&" alt="Navin" /></p>
