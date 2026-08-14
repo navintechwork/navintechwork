@@ -59,6 +59,8 @@ My current development stack is centered around **Next.js, React, TypeScript, Su
   <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,javascript,html,css,sass,bootstrap,vue,nuxt,jquery,wordpress" alt="Frontend and Web Technologies">
 </p>
 
+**Next.js · React · Angular · TypeScript · JavaScript · HTML5 · CSS3 · Sass · Bootstrap · Vue.js · Nuxt.js · jQuery · WordPress**
+
 **Also:** Responsive UI · Angular Material · Electron · Chart.js · Figma · Adobe XD · Photoshop
 
 ---
@@ -69,6 +71,8 @@ My current development stack is centered around **Next.js, React, TypeScript, Su
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,nestjs,graphql" alt="Backend and API Technologies">
 </p>
 
+**Node.js · Express.js · PHP · Laravel · Python · Django · NestJS · GraphQL**
+
 **Also:** REST APIs · Authentication Systems · Web Push Notifications · PWA / Service Workers · API integrations
 
 ---
@@ -78,6 +82,8 @@ My current development stack is centered around **Next.js, React, TypeScript, Su
 <p>
   <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,mariadb,firebase" alt="Databases and Data Technologies">
 </p>
+
+**Supabase · PostgreSQL · MongoDB · MySQL · MariaDB · Firebase**
 
 **Also:** GraphQL · Database-backed application design · Operational data models
 
@@ -103,6 +109,8 @@ My current development stack is centered around **Next.js, React, TypeScript, Su
   <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,github,gitlab" alt="Cloud and Platform Technologies">
 </p>
 
+**AWS · Google Cloud · Vercel · GitHub · GitLab**
+
 **Also:** Bitbucket · Git · Deployment and hosting workflows
 
 ---
@@ -119,7 +127,9 @@ My current development stack is centered around **Next.js, React, TypeScript, Su
   <img src="https://img.shields.io/badge/Karma-56C5A5?style=for-the-badge&logo=karma&logoColor=white" alt="Karma">
 </p>
 
-**Also:** Jest · Cypress · Jasmine · Karma · GitHub / GitLab / Bitbucket · Jira
+**Git · GitHub · GitLab · Jest · Cypress · Jira · Jasmine · Karma · Bitbucket**
+
+**Also:** GitHub / GitLab / Bitbucket workflows · Jira-based collaboration
 
 ---
 
