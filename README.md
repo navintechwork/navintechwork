@@ -1,66 +1,53 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 
-# Hi 👋, I'm Navin Kumar
-
-### MVP Developer · Full-Stack Web Applications · Internal Tools · Workflow Systems
-
-I build practical software for real-world workflows — from MVPs and internal tools  
-to operational dashboards, automation systems, and educational applications.
-
-<p>
-  <a href="https://www.linkedin.com/in/navintechwork"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.upwork.com/freelancers/~013cefab96469817db"><img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
-  <a href="mailto:navintechwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">
+  <strong>Full-Stack Developer · MVP & Internal Tools · Workflow Automation</strong>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=navintechwork&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+<p align="center">
+  I build practical software for founders and small businesses — from MVPs and operational dashboards to workflow automation and lightweight business systems.
+</p>
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a full-stack developer and independent builder focused on turning ideas, manual processes, and operational workflows into practical software.
-
-My development experience has evolved from **PHP-based applications and frameworks**, through the **MEAN stack**, to my current work with **Next.js, TypeScript, and Supabase**.
-
-I particularly enjoy building systems that are:
-
-- ⚡ Fast to build and iterate
-- 🧩 Simple enough for real operators to use
-- 🛠️ Practical rather than over-engineered
-- 📊 Designed around actual workflows and data movement
-- 🔄 Easy to maintain and improve
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~013cefab96469817db">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+  <a href="https://www.linkedin.com/in/navintechwork/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:navintechwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## 🚀 What I Build
 
-| Area | What I Work On |
+I focus on lightweight systems that solve real operational problems without unnecessary complexity.
+
+| | |
 |---|---|
-| 💡 **MVP Development** | Turning ideas, rough workflows, and manual processes into usable products |
-| 🏢 **Internal Tools** | Admin panels, dashboards, operational systems, and business utilities |
-| 🔄 **Workflow Systems** | Process tracking, approvals, task flows, operational records, and automation |
-| 📦 **Inventory & Operations** | Stock movement, production records, tracking, and lightweight ERP-style tools |
-| 📅 **Booking & Scheduling** | Booking systems, occupancy, scheduling, and availability workflows |
-| 🤖 **Automation** | n8n, Make, Zapier, APIs, webhooks, Google Sheets, and Airtable workflows |
-| 🎓 **Educational Products** | Learning tools, structured self-study systems, and language-learning applications |
-| 💬 **Integrations** | WhatsApp, REST APIs, third-party services, notifications, and business integrations |
+| 🧩 **MVP Development** | Turn ideas, rough workflows and manual processes into usable products |
+| 📊 **Internal Tools** | Admin panels, dashboards and operational interfaces |
+| ⚙️ **Workflow Systems** | Practical tools for repetitive business and operational workflows |
+| 📦 **Inventory & Tracking** | Stock, production, movement and activity tracking |
+| 📅 **Booking & Scheduling** | Booking, availability, occupancy and scheduling workflows |
+| 🔗 **Business Integrations** | APIs, webhooks, WhatsApp and third-party service integrations |
+| 🤖 **Workflow Automation** | n8n, Make, Zapier, Google Sheets and Airtable workflows |
 
 ---
 
-## 🧱 Current Development Stack
+## 🎯 Current Focus
 
-My current development work is centered around:
+I am currently building and experimenting with products under **Digital Roots**, a bootstrapped product and technology initiative.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,git,github,vercel" alt="Current development stack">
-</p>
+- 🌐 **Digital Roots Language** — a multilingual language-learning platform built around structured language content and practical learning.
+- 🏭 **Digital Roots Manufacturing** — lightweight internal tools for print production, production records and inventory movement.
+- 🛍️ **Digital Roots E-store** — educational and stationery products, with plans to evolve the current storefront into a more capable product platform.
+- 🤖 **Workflow Automation** — practical automation and operational systems for small businesses and independent teams.
 
-**Primary stack:** Next.js · React · TypeScript · JavaScript · Supabase · PostgreSQL · Git · GitHub · Vercel
-
-My broader engineering experience extends across full-stack JavaScript, MEAN-stack development, PHP frameworks, databases, APIs, testing, cloud platforms, and workflow automation.
+My current development stack is centered around **Next.js, React, TypeScript, Supabase and PostgreSQL**, while my professional experience also includes the **MEAN stack, Angular, Node.js, PHP/Laravel and a broad range of web technologies**.
 
 ---
 
@@ -69,173 +56,99 @@ My broader engineering experience extends across full-stack JavaScript, MEAN-sta
 ### Frontend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,nuxt,ts,js,html,css,sass,bootstrap,jquery" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,typescript,javascript,html,css,sass,bootstrap,vue,nuxt,jquery,wordpress" alt="Frontend and Web Technologies">
 </p>
 
-- Next.js / React
-- Angular / Angular Material
-- Vue.js / Nuxt.js
-- JavaScript / TypeScript
-- HTML5 / CSS3 / SCSS
-- Bootstrap
-- Responsive UI development
-- PWA / Service Workers
-- Electron
-- Redux
+**Also:** Responsive UI · Angular Material · Electron · Chart.js · Figma · Adobe XD · Photoshop
+
+---
 
 ### Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,nestjs" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,nestjs,graphql" alt="Backend and API Technologies">
 </p>
 
-- Node.js / Express.js
-- PHP
-- Laravel / CodeIgniter
-- Python / Django
-- NestJS
-- REST APIs
-- Authentication systems
-- Web Push Notifications
-- API integrations
-- Webhooks
+**Also:** REST APIs · Authentication Systems · Web Push Notifications · PWA / Service Workers · API integrations
+
+---
 
 ### Databases & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,firebase,graphql" alt="Database technologies">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,mariadb,firebase" alt="Databases and Data Technologies">
 </p>
 
-- Supabase
-- PostgreSQL
-- MongoDB
-- MySQL
-- MariaDB
-- Firebase
-- GraphQL
+**Also:** GraphQL · Database-backed application design · Operational data models
+
+---
 
 ### Automation & Business Integrations
 
-- n8n
-- Make
-- Zapier
-- Google Sheets automation
-- Airtable
-- API integrations
-- Webhooks
-- WhatsApp integrations
-- Workflow automation
-- Operational workflow design
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" alt="Make">
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable">
+</p>
 
-### Testing, Development & Collaboration
+**Capabilities:** API integrations · Webhooks · WhatsApp integrations · Workflow automation · Operational workflow design
 
-- Git / GitHub / GitLab / Bitbucket
-- Jira
-- Jest
-- Cypress
-- Jasmine
-- Karma
-- Bash
-- Linux / WSL
+---
 
 ### Cloud & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,firebase" alt="Cloud and platforms">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,github,gitlab" alt="Cloud and Platform Technologies">
 </p>
 
-- Vercel
-- AWS
-- Google Cloud
-- Firebase
-
-### Additional Experience
-
-I have also worked with technologies and tools including:
-
-**WordPress · Photoshop · Figma · Adobe XD · Chart.js · Google Maps · HERE Maps**
+**Also:** Bitbucket · Git · Deployment and hosting workflows
 
 ---
 
-## 🧭 How My Stack Has Evolved
+### Testing, Development & Collaboration
 
-```text
-PHP / PHP Frameworks
-        ↓
-MEAN Stack
-        ↓
-Modern React / Next.js
-        ↓
-Next.js + TypeScript + Supabase
-        ↓
-Automation + AI-assisted development + practical product building
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,jest,cypress" alt="Development and Testing Tools">
+</p>
 
-I don't treat older technologies as irrelevant. They form part of the experience behind how I approach architecture, debugging, APIs, databases, and real-world application development.
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine">
+  <img src="https://img.shields.io/badge/Karma-56C5A5?style=for-the-badge&logo=karma&logoColor=white" alt="Karma">
+</p>
+
+**Also:** Jest · Cypress · Jasmine · Karma · GitHub / GitLab / Bitbucket · Jira
 
 ---
 
-## 🧠 What I Bring Beyond Code
+## 💡 What I Bring to a Project
 
-My biggest strength is understanding the **workflow behind the software**.
+My strongest skill is understanding **operational workflows**.
 
-I don't only think about screens and features. I look at:
+I don't just build screens. I think about:
 
-- 👤 How operators actually use the system
-- 🔁 Repetitive actions that can be simplified
-- 🚧 Business bottlenecks
-- 📦 How information moves through an operation
-- 🧮 What data needs to be recorded
-- 🧭 How a user moves through a workflow
-- 🛠️ What should remain simple and maintainable
+- 🔄 repetitive actions
+- 👨‍💻 operator flow
+- 📌 business bottlenecks
+- 🧭 practical usability
+- 📈 what needs to be tracked
+- 🧱 what should stay simple
 
-That perspective is especially useful when building **MVPs, internal tools, operational dashboards, and lightweight business software**.
-
----
-
-## 🔭 What I'm Building Now
-
-### 🌱 Digital Roots
-
-I'm building a small ecosystem of practical products and experiments under **Digital Roots** — focused on learning by building, validating ideas, and improving through real-world feedback.
-
-### 🎓 Digital Roots Language
-
-A multilingual language-learning platform designed around structured learning dimensions, language corpus development, and practical learning workflows.
-
-**Current direction:** Next.js · TypeScript · Supabase · PostgreSQL
-
-### 📚 Educational & Productivity Products
-
-Planners, notebooks, activity books, structured self-study materials, and other practical educational products.
-
-### 🏭 Digital Roots Manufacturing
-
-Internal tools supporting print production, production records, and inventory movement for stationery manufacturing workflows.
-
-### 🤖 Workflow Automation
-
-Exploring practical automation using n8n, Make, Zapier, APIs, Google Sheets, Airtable, and AI-assisted development workflows.
+That helps me build software that is not only technically functional, but also practical for people using it every day.
 
 ---
 
-## 💼 What I Can Help With
+## 🔥 Recent Project Experience
 
-If you have an:
-
-- 📌 Idea that needs to become an MVP
-- 📌 Manual process that should become a digital workflow
-- 📌 Existing application that needs cleanup or fixes
-- 📌 Internal operation that needs a dashboard
-- 📌 Inventory or tracking problem
-- 📌 Booking or scheduling workflow
-- 📌 Repetitive process that could be automated
-
-I can help turn it into a **practical working system**.
-
-### Ideal Projects
-
-**MVP Development · Internal Tools · Admin Dashboards · Workflow Systems · Operational Software · Booking Platforms · Inventory Systems · Automation · Bug Fixing · Feature Development · API Integrations**
+- 🖨️ Print production management dashboard
+- 📚 Self-study library booking system
+- 🪑 Seat occupancy & scheduling system
+- 🛍️ WhatsApp stationery store MVP
+- 📊 Workflow tracking dashboards
+- 📦 Production and inventory movement tools
+- 🌐 Multilingual language-learning platform
 
 ---
 
@@ -243,32 +156,32 @@ I can help turn it into a **practical working system**.
 
 > **Clear scope → Simple architecture → Fast execution → Practical testing → Clean delivery**
 
-I prefer discussing the workflow and expected outcome first, then building only what is necessary to make the solution useful.
+I prefer discussing the **workflow and expected outcome first**, then building only what is necessary to make the solution useful.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
-<div align="center">
+My GitHub profile contains my ongoing experiments, product development work and technical projects.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en&hide_border=true" alt="Navin's GitHub statistics">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=navintechwork&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Navin's most used languages">
-
-</div>
+> GitHub's native contribution graph and repository activity provide the most reliable view of my current activity.
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~013cefab96469817db"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
-  <a href="https://www.linkedin.com/in/navintechwork"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
-  <a href="mailto:navintechwork@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+  <a href="https://www.upwork.com/freelancers/~013cefab96469817db">
+    <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork">
+  </a>
+  <a href="https://www.linkedin.com/in/navintechwork/">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:navintechwork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+  </a>
 </p>
 
-<div align="center">
-
-**Building practical software. Learning by building. Improving through real-world feedback.**
-
-</div>
+<p align="center">
+  <strong>Building practical software. Learning by building. Improving through real-world feedback.</strong>
+</p>
