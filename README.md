@@ -1,103 +1,274 @@
-<h1 align="center">Hi 👋, I'm Navin Kumar</h1>
-<h3 align="center">A FullStack Freelancer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navintechwork&label=Profile%20views&color=0e75b6&style=flat" alt="navintechwork" /> </p>
+# Hi 👋, I'm Navin Kumar
 
-<p align="left"> <a href="https://twitter.com/navin4590" target="blank"><img src="https://img.shields.io/twitter/follow/navin4590?logo=twitter&style=for-the-badge" alt="navintechwork" /></a> </p>
+### MVP Developer · Full-Stack Web Applications · Internal Tools · Workflow Systems
 
-- 🔭 I’m currently working on **Data structures and my Problem Solving skills.**
+I build practical software for real-world workflows — from MVPs and internal tools  
+to operational dashboards, automation systems, and educational applications.
 
-- 🌱 I’m currently learning **Python and exploring my interest in Data science.**
-
-- 👯 I’m looking to collaborate on **Blockchain Projects**
-
-- 👨‍💻 Website 
-
-- 📫 How to reach me **navintechwork@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **I am a Keyboard Crusher Lol...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/navin4590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Navin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/navintechwork/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Navin"" height="30" width="40" /></a>
-<a href="https://instagram.com/insta_navinkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Navin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Navin" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/navintechwork"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~013cefab96469817db"><img src="https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+  <a href="mailto:navintechwork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<img src="https://komarev.com/ghpvc/?username=navintechwork&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 👨‍💻 About Me
 
+I'm a full-stack developer and independent builder focused on turning ideas, manual processes, and operational workflows into practical software.
 
-### Backend  
-<div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+My development experience has evolved from **PHP-based applications and frameworks**, through the **MEAN stack**, to my current work with **Next.js, TypeScript, and Supabase**.
+
+I particularly enjoy building systems that are:
+
+- ⚡ Fast to build and iterate
+- 🧩 Simple enough for real operators to use
+- 🛠️ Practical rather than over-engineered
+- 📊 Designed around actual workflows and data movement
+- 🔄 Easy to maintain and improve
+
+---
+
+## 🚀 What I Build
+
+| Area | What I Work On |
+|---|---|
+| 💡 **MVP Development** | Turning ideas, rough workflows, and manual processes into usable products |
+| 🏢 **Internal Tools** | Admin panels, dashboards, operational systems, and business utilities |
+| 🔄 **Workflow Systems** | Process tracking, approvals, task flows, operational records, and automation |
+| 📦 **Inventory & Operations** | Stock movement, production records, tracking, and lightweight ERP-style tools |
+| 📅 **Booking & Scheduling** | Booking systems, occupancy, scheduling, and availability workflows |
+| 🤖 **Automation** | n8n, Make, Zapier, APIs, webhooks, Google Sheets, and Airtable workflows |
+| 🎓 **Educational Products** | Learning tools, structured self-study systems, and language-learning applications |
+| 💬 **Integrations** | WhatsApp, REST APIs, third-party services, notifications, and business integrations |
+
+---
+
+## 🧱 Current Development Stack
+
+My current development work is centered around:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,supabase,postgres,git,github,vercel" alt="Current development stack">
+</p>
+
+**Primary stack:** Next.js · React · TypeScript · JavaScript · Supabase · PostgreSQL · Git · GitHub · Vercel
+
+My broader engineering experience extends across full-stack JavaScript, MEAN-stack development, PHP frameworks, databases, APIs, testing, cloud platforms, and workflow automation.
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,nuxt,ts,js,html,css,sass,bootstrap,jquery" alt="Frontend technologies">
+</p>
+
+- Next.js / React
+- Angular / Angular Material
+- Vue.js / Nuxt.js
+- JavaScript / TypeScript
+- HTML5 / CSS3 / SCSS
+- Bootstrap
+- Responsive UI development
+- PWA / Service Workers
+- Electron
+- Redux
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,nestjs" alt="Backend technologies">
+</p>
+
+- Node.js / Express.js
+- PHP
+- Laravel / CodeIgniter
+- Python / Django
+- NestJS
+- REST APIs
+- Authentication systems
+- Web Push Notifications
+- API integrations
+- Webhooks
+
+### Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,firebase,graphql" alt="Database technologies">
+</p>
+
+- Supabase
+- PostgreSQL
+- MongoDB
+- MySQL
+- MariaDB
+- Firebase
+- GraphQL
+
+### Automation & Business Integrations
+
+- n8n
+- Make
+- Zapier
+- Google Sheets automation
+- Airtable
+- API integrations
+- Webhooks
+- WhatsApp integrations
+- Workflow automation
+- Operational workflow design
+
+### Testing, Development & Collaboration
+
+- Git / GitHub / GitLab / Bitbucket
+- Jira
+- Jest
+- Cypress
+- Jasmine
+- Karma
+- Bash
+- Linux / WSL
+
+### Cloud & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,firebase" alt="Cloud and platforms">
+</p>
+
+- Vercel
+- AWS
+- Google Cloud
+- Firebase
+
+### Additional Experience
+
+I have also worked with technologies and tools including:
+
+**WordPress · Photoshop · Figma · Adobe XD · Chart.js · Google Maps · HERE Maps**
+
+---
+
+## 🧭 How My Stack Has Evolved
+
+```text
+PHP / PHP Frameworks
+        ↓
+MEAN Stack
+        ↓
+Modern React / Next.js
+        ↓
+Next.js + TypeScript + Supabase
+        ↓
+Automation + AI-assisted development + practical product building
+```
+
+I don't treat older technologies as irrelevant. They form part of the experience behind how I approach architecture, debugging, APIs, databases, and real-world application development.
+
+---
+
+## 🧠 What I Bring Beyond Code
+
+My biggest strength is understanding the **workflow behind the software**.
+
+I don't only think about screens and features. I look at:
+
+- 👤 How operators actually use the system
+- 🔁 Repetitive actions that can be simplified
+- 🚧 Business bottlenecks
+- 📦 How information moves through an operation
+- 🧮 What data needs to be recorded
+- 🧭 How a user moves through a workflow
+- 🛠️ What should remain simple and maintainable
+
+That perspective is especially useful when building **MVPs, internal tools, operational dashboards, and lightweight business software**.
+
+---
+
+## 🔭 What I'm Building Now
+
+### 🌱 Digital Roots
+
+I'm building a small ecosystem of practical products and experiments under **Digital Roots** — focused on learning by building, validating ideas, and improving through real-world feedback.
+
+### 🎓 Digital Roots Language
+
+A multilingual language-learning platform designed around structured learning dimensions, language corpus development, and practical learning workflows.
+
+**Current direction:** Next.js · TypeScript · Supabase · PostgreSQL
+
+### 📚 Educational & Productivity Products
+
+Planners, notebooks, activity books, structured self-study materials, and other practical educational products.
+
+### 🏭 Digital Roots Manufacturing
+
+Internal tools supporting print production, production records, and inventory movement for stationery manufacturing workflows.
+
+### 🤖 Workflow Automation
+
+Exploring practical automation using n8n, Make, Zapier, APIs, Google Sheets, Airtable, and AI-assisted development workflows.
+
+---
+
+## 💼 What I Can Help With
+
+If you have an:
+
+- 📌 Idea that needs to become an MVP
+- 📌 Manual process that should become a digital workflow
+- 📌 Existing application that needs cleanup or fixes
+- 📌 Internal operation that needs a dashboard
+- 📌 Inventory or tracking problem
+- 📌 Booking or scheduling workflow
+- 📌 Repetitive process that could be automated
+
+I can help turn it into a **practical working system**.
+
+### Ideal Projects
+
+**MVP Development · Internal Tools · Admin Dashboards · Workflow Systems · Operational Software · Booking Platforms · Inventory Systems · Automation · Bug Fixing · Feature Development · API Integrations**
+
+---
+
+## 🤝 How I Work
+
+> **Clear scope → Simple architecture → Fast execution → Practical testing → Clean delivery**
+
+I prefer discussing the workflow and expected outcome first, then building only what is necessary to make the solution useful.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en&hide_border=true" alt="Navin's GitHub statistics">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=navintechwork&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Navin's most used languages">
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~013cefab96469817db"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
+  <a href="https://www.linkedin.com/in/navintechwork"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:navintechwork@gmail.com"><img src="https://img.shields.io/badge/Email-me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
+</p>
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
+<div align="center">
 
+**Building practical software. Learning by building. Improving through real-world feedback.**
 
-
-### Database  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
-
-</td></tr></table>  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navintechwork&show_icons=true&locale=en&layout=compact" alt="Navin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navintechwork&show_icons=true&locale=en" alt="Navin" /></p>
